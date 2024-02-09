@@ -1,5 +1,7 @@
 ### Hi there  👋, my name is Roman (KitM4), I'm a .NET developer.
+
 ---
+
 ### About me
 * I have been writing in C# for 6 years
 * I had experience in writing projects from console calculators to web services with artificial intelligence
@@ -7,10 +9,20 @@
 * I learn and adapt quickly to new technologies
 
 ---
+
 ### My stack💻
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-//TODO: add more technologies
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/csharp.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/dotnet.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/aspdotnet.svg" width="70" height="70">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/mysql.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/sqlite.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/microsoftsqlserver.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/visualstudio.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/unity.svg" width="50" height="50">
+</div>
+
+---
 
 ### Contacts🔗
 * //TODO: add links
