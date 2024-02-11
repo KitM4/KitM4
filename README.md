@@ -20,9 +20,12 @@
     <img src="https://github.com/KitM4/KitM4/blob/main/Icons/microsoftsqlserver.svg" width="50" height="50">
     <img src="https://github.com/KitM4/KitM4/blob/main/Icons/visualstudio.svg" width="50" height="50">
     <img src="https://github.com/KitM4/KitM4/blob/main/Icons/unity.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/html5.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/css3.svg" width="50" height="50">
+    <img src="https://github.com/KitM4/KitM4/blob/main/Icons/jss.svg" width="50" height="50">
 </div>
 
 ---
 
 ### Contacts🔗
-* //TODO: add links
+```//TODO: add links```
